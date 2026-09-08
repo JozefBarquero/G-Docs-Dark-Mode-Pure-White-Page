@@ -13,6 +13,7 @@ A lightweight Userscript that applies a sleek, comfortable dark theme to the Goo
 - **Profile & Image Protection:** Preserves profile pictures and key user interface icons so they display naturally without inverted colors.
 - **Ultra Lightweight & Fast:** Built with clean native JavaScript without heavy dependencies or extra runtime overhead.
 
+<img width="1919" height="1010" alt="Cap" src="https://github.com/user-attachments/assets/8713b182-7ef4-4712-a1eb-efe40e750379" />
 ---
 
 ## Installation
